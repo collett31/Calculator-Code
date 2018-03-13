@@ -1,17 +1,3 @@
-// ConsoleApplication14.cpp : Defines the entry point for the console application.
-//
-
-// ConsoleApplication13.cpp : Defines the entry point for the console application.
-//
-
-// ConsoleApplication12.cpp : Defines the entry point for the console application.
-//
-
-// hme3.cpp : Defines the entry point for the console application.
-//
-// hw3.cpp : Defines the entry point for the console application.
-//
-
 #include "stdafx.h"
 #include<stack>
 #include<iostream>
